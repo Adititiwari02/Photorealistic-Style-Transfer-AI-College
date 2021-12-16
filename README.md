@@ -5,7 +5,7 @@ This repository contains PyTorch implementation of the paper [Photorealistic Sty
  
 
 ### Schematic illustration of wavelet module
-<img src="Image/haar_wavelet.png" width="1000" title="wavelet module"> 
+<img src="Image/haar-wavelet.png" width="1000" title="wavelet module"> 
 
 ### Dependency
 - PyTorch >= 0.4.1
