@@ -4,11 +4,27 @@ This repository contains PyTorch implementation of the paper [Photorealistic Sty
 - Rhythm- 05701032019
 
 
+### Dependency
+- PyTorch >= 0.4.1
+- Check the requirements.txt
+```bash
+pip install -r requirements.txt
+```
+### Installation
+- Clone this repo:
+```bash
+git clone https://github.com/Adititiwari02/Photorealistic-Style-Transfer-AI-College.git
+cd https://github.com/Adititiwari02/Photorealistic-Style-Transfer-AI-College.git
+```
+
 ## How to run the code
 ```python
-cd src/
+cd WCT2/src/
 python main.py
 ```
+### Dataset
+  - Images can be found in [DPST repo](https://github.com/luanfujun/deep-photo-styletransfer)
+  
 ### Arguments
 - `--content`: FOLDER-PATH-TO-CONTENT-IMAGES
 - `--content_segment`: FOLDER-PATH-TO-CONTENT-SEGMENT-LABEL-IMAGES
@@ -17,3 +33,4 @@ python main.py
 - `--output`: FOLDER-PATH-TO-OUTPUT-IMAGES
 - `--image_size`: output image size
 - `--alpha`: alpha determines the blending ratio between content and stylized features
+
