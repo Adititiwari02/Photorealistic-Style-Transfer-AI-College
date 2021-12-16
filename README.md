@@ -1,7 +1,8 @@
 # WCT2
-This repository contains PyTorch implementation of the paper [Photorealistic Style Transfer via Wavelet Transforms](https://arxiv.org/abs/1903.09760).
+This repository contains PyTorch implementation of the paper [Photorealistic Style Transfer via Wavelet Transforms](https://arxiv.org/abs/1903.09760) and [Presentation on Photorealistic style transfer via WCT2](https://docs.google.com/document/d/1XXqfoJc23DFYfQnyIVZVKkxQ1gebP0vDyRa0_sZizDI/edit).
 - Aditi Tiwari - 04301032019
 - Rhythm- 05701032019
+ 
 
 
 ### Dependency
