@@ -21,6 +21,9 @@ video stylization without temporal constraints.
 - The paper proposes to perform this via an end-to-end photorealistic style transfer model that allows to remove the additional post-processing steps.
 - The model provides stable video stylization without temporal constraints. 
 
+### Dataset
+  - Images can be found in [DPST repo](https://github.com/luanfujun/deep-photo-styletransfer)
+
  
 
 ### Schematic illustration of wavelet module
@@ -52,8 +55,7 @@ cd https://github.com/Adititiwari02/Photorealistic-Style-Transfer-AI-College.git
 cd WCT2/src/
 python main.py
 ```
-### Dataset
-  - Images can be found in [DPST repo](https://github.com/luanfujun/deep-photo-styletransfer)
+
   
 ### Arguments
 - `--content`: FOLDER-PATH-TO-CONTENT-IMAGES
