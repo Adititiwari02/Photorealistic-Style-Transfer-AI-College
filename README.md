@@ -4,6 +4,8 @@ This repository contains PyTorch implementation of the paper [Photorealistic Sty
 - Rhythm- 05701032019
  
 
+### Schematic illustration of wavelet module
+<img src="Image/haar_wavelet.png" width="1000" title="wavelet module"> 
 
 ### Dependency
 - PyTorch >= 0.4.1
