@@ -26,6 +26,14 @@ video stylization without temporal constraints.
 ### Schematic illustration of wavelet module
 <img src="Image/haar-wavelet.png" width="1000" title="wavelet module"> 
 
+### Results
+<p float="left">
+ <img src="WCT2/images/style/in1.jpg" width="200" title="style image"> 
+<img src="WCT2/images/content/in1.jpg" width="200" title="content image"> 
+<img src="WCT2/images/output/in1.jpg" width="200" title="output image"> 
+ </p>
+
+
 ### Dependency
 - PyTorch >= 0.4.1
 - Check the requirements.txt
