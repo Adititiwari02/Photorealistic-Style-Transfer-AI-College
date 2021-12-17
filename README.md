@@ -36,13 +36,6 @@ video stylization without temporal constraints.
 <img src="WCT2/images/output/in1.jpg" width="200" title="output image"> 
  </p>
 
-
-### Dependency
-- PyTorch >= 0.4.1
-- Check the requirements.txt
-```bash
-pip install -r requirements.txt
-```
 ### Installation
 - Clone this repo:
 ```bash
