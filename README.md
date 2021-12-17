@@ -45,8 +45,8 @@ python main.py
 ```
 ### References
 https://arxiv.org/abs/1703.07511
-https://arxiv.org/abs/1703.06868
-https://arxiv.org/abs/1705.08086
+<br> https://arxiv.org/abs/1703.06868
+<br> https://arxiv.org/abs/1705.08086
  
 ### Arguments
 - `--content`: FOLDER-PATH-TO-CONTENT-IMAGES
