@@ -48,8 +48,11 @@ cd https://github.com/Adititiwari02/Photorealistic-Style-Transfer-AI-College.git
 cd WCT2/src/
 python main.py
 ```
-
-  
+### References
+https://arxiv.org/abs/1703.07511
+https://arxiv.org/abs/1703.06868
+https://arxiv.org/abs/1705.08086
+ 
 ### Arguments
 - `--content`: FOLDER-PATH-TO-CONTENT-IMAGES
 - `--content_segment`: FOLDER-PATH-TO-CONTENT-SEGMENT-LABEL-IMAGES
