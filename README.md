@@ -24,11 +24,6 @@ video stylization without temporal constraints.
 ### Dataset
   - Images can be found in [DPST repo](https://github.com/luanfujun/deep-photo-styletransfer)
 
- 
-
-### Schematic illustration of wavelet module
-<img src="Image/haar-wavelet.png" width="1000" title="wavelet module"> 
-
 ### Results
 <p float="left">
  <img src="WCT2/images/style/in1.jpg" width="200" title="style image"> 
